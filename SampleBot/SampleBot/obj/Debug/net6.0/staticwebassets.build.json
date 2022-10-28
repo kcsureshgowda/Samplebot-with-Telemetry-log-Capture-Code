@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "gvBGw+grOEj4cgGFK43CPLLzZvuU6EeU4XylpWGRu1E=",
+  "Source": "SampleBot",
+  "BasePath": "_content/SampleBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SampleBot\\wwwroot",
+      "Source": "SampleBot",
+      "ContentRoot": "D:\\Learnings\\Bot\\CoreBotWithTests\\SampleBot\\SampleBot\\wwwroot\\",
+      "BasePath": "_content/SampleBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Learnings\\Bot\\CoreBotWithTests\\SampleBot\\SampleBot\\wwwroot\\default.htm",
+      "SourceId": "SampleBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Learnings\\Bot\\CoreBotWithTests\\SampleBot\\SampleBot\\wwwroot\\",
+      "BasePath": "_content/SampleBot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}

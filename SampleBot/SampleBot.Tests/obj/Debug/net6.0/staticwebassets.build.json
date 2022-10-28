@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "Hash": "SuB1Qo0ey4r5eRxeIPbrhFjEQNlXLQ8NUqlmjcMLECA=",
+  "Source": "SampleBot.Tests",
+  "BasePath": "_content/SampleBot.Tests",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Learnings\\Bot\\CoreBotWithTests\\SampleBot\\SampleBot\\SampleBot.csproj",
+      "Version": 2,
+      "Source": "SampleBot",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SampleBot\\wwwroot",
+      "Source": "SampleBot",
+      "ContentRoot": "D:\\Learnings\\Bot\\CoreBotWithTests\\SampleBot\\SampleBot\\wwwroot\\",
+      "BasePath": "_content/SampleBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Learnings\\Bot\\CoreBotWithTests\\SampleBot\\SampleBot\\wwwroot\\default.htm",
+      "SourceId": "SampleBot",
+      "SourceType": "Project",
+      "ContentRoot": "D:\\Learnings\\Bot\\CoreBotWithTests\\SampleBot\\SampleBot\\wwwroot\\",
+      "BasePath": "_content/SampleBot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
